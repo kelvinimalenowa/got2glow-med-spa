@@ -8,6 +8,8 @@ Got2Glow Nutrition allows users to search for a food and view its nutritional in
 
 The application uses the Dietly API to retrieve nutrition data based on the user’s search. Selected nutrition data is then passed to OpenRouter to generate a short skin wellness summary.
 
+[Got2Glow Live Project](https://kelvinimalenowa.github.io/got2glow-med-spa/)
+
 ## Screenshot
 
 ![Project Screenshot](assets/mockup.png)
